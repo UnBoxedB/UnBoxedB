@@ -14,8 +14,8 @@ Additional interests (intellectually interesting but not passion inducing) inclu
 - deep fake detection
 - extremely diverse LLM training datasets
 - highly specific LLM training datasets<br><br>
-🌱 I’m currently learning how to learn faster and more efficiently but learning how to most effectively communicate with LLMs<br><br>
-💞️ I’m looking to collaborate on projects involving intelligent agents for learning and knowledge acquisition, storage, analysis, retrieval and sharing<br><br>
+🌱 I’m currently learning how to learn faster and more efficiently by learning how to most effectively communicate with LLMs<br><br>
+💞️ I’m looking to collaborate on projects involving AI/ML for knowledge acquisition, storage, analysis, retrieval and sharing<br><br>
 📫 How to reach me bwr at brantrichards dot com
 
 <!---
